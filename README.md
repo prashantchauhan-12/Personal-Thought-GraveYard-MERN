@@ -2,7 +2,7 @@
 
 A full-stack MERN (MongoDB, Express, React, Node.js) application where you can "bury" your thoughts. This project demonstrates CRUD operations, theme switching, and modern web development practices.
 
-![Digital Graveyard App](./screenshots/demo.png)
+![Digital GraveYard App](image.png)
 
 ## ✨ Features
 
@@ -138,10 +138,6 @@ The backend includes DNS configuration for better MongoDB Atlas connectivity:
 dns.setDefaultResultOrder('ipv4first');
 dns.setServers(['8.8.8.8', '8.8.4.4']);
 ```
-
-## 📸 Screenshots
-
-![Demo](./screenshots/demo.png)
 
 ## 🎓 Learning Objectives
 
